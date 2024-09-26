@@ -5,7 +5,7 @@ In the northern states of India, fog and haze often reduce visibility to **5-10 
 
 **Sarvadrushti** is here to provide a solution! 🚀 We leverage **LiDAR** and advanced **deep learning models** to detect and display objects and vehicles **beyond the visible range** in real-time, ensuring safer navigation in low-visibility environments. 🌐💡
 
-![Foggy Road](https://github.com/user-attachments/assets/b059bbd7-1a4b-4a3b-9ad3-c858173c2436)
+https://github.com/user-attachments/assets/3560964a-40d6-41ee-b952-921f737c1835
 
 ---
 
