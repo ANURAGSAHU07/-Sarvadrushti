@@ -7,6 +7,7 @@ In the northern states of India, fog and haze often reduce visibility to **5-10 
 
 https://github.com/user-attachments/assets/3560964a-40d6-41ee-b952-921f737c1835
 
+### codebase still under development will be adding all of them soon.
 ---
 
 ## 🛠️ Key Features
