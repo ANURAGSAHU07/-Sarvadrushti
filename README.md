@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📧 Contact
-For any questions, feel free to open an issue or reach out via email at `your-email@example.com`.
+For any questions, feel free to open an issue or reach out via email at anuragsahu4328@gmail.com.
 
 Happy Coding! 😄👨‍💻👩‍💻
